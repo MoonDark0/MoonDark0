@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MoonDark0
 - 👀 I’m interested in 3d graphics, physics and math
-- 🌱 I’m currently learning Saving on python
+- 🌱 I’m currently learning openGL and C
 - 💞️ I’m looking to collaborate on -
 - 📫 How to reach me discord:Moondarkside#0957
 
